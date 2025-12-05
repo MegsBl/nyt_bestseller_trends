@@ -44,10 +44,15 @@ This project includes:
 2. A full data cleaning + merge pipeline for title-level aggregation
 3. Feature engineering around:
 > Weeks on list
+
 > Rank changes
+
 > Cumulative rank score
+
 > Entrant type (new / returning)
+
 > Stability & volatility metrics
+
 4. Deep rank dynamics analysis across the 2025 period
 5. Author-level & publisher-level insights
 6. Market behavior modeling, such as seasonality, momentum, clustering
